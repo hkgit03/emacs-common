@@ -1,0 +1,6 @@
+*~
+\#*
+
+# ignore all emacs distributions in directories
+# this does not work on symlinks, though
+*/
